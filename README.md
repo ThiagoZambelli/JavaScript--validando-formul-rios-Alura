@@ -29,6 +29,20 @@
 * Construir funções para cada elemento de uma lista;
 * Detectar eventos do usuário;
 * Importar funções de outros arquivos;
-* Verificar CPFs com números repetidos.
+* Verificar CPFs com números repetidos;
+* Validar os dígitos verificadores do CPF;
+* Transformar fórmulas matemáticas em código;
+* Lidar com datas em JavaScript;
+* Construir comparações de datas para verificar maioridade.
+
+## Utilização de expressão regular para validar campos: 
+![Alt text](img-Readme/1.png)
+* Utilizado principalmente no campo de CPF para ajustar a possibilidade de usos do . ou - como separação de partes do mesmo.
+
+## Validação de CPF utilizando o calculo dos digitos verificadores:
+* Verificação do primeiro digito do CPF
+![Alt text](img-Readme/2.png)
+* Verificação do Segundo digito do CPF
+![Alt text](img-Readme/3.png)
 
 [1]: https://www.linkedin.com/in/thiagozambelli "Linkedin"
