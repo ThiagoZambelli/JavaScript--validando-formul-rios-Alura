@@ -23,5 +23,12 @@
 * Limitar a quantidade de caracteres em um elemento input;
 * Controlar a quantidade mínima de caracteres do input;
 * Transformar um campo em obrigatório;
+* Utilizar patterns;
+* Criar expressões regulares;
+* Selecionar vários elementos ao mesmo tempo;
+* Construir funções para cada elemento de uma lista;
+* Detectar eventos do usuário;
+* Importar funções de outros arquivos;
+* Verificar CPFs com números repetidos.
 
 [1]: https://www.linkedin.com/in/thiagozambelli "Linkedin"
