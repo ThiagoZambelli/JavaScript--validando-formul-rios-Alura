@@ -33,7 +33,18 @@
 * Validar os dígitos verificadores do CPF;
 * Transformar fórmulas matemáticas em código;
 * Lidar com datas em JavaScript;
-* Construir comparações de datas para verificar maioridade.
+* Construir comparações de datas para verificar maioridade;
+* Encontrar as validações padrões que existem no JavaScript com o Validity State;
+* Interpretar cada tipo de erro;
+* Criar mensagens customizadas;
+* Remover o comportamento padrão de erro do HTML;
+* Mostrar as mensagens customizadas na página;
+* Salvar dados no localStorage;
+* Iniciar camêra do usuário no navegador;
+* Capturar fotografia;
+* Lidar com eventos de click;
+* Aplicar um fluxo de navegação escondendo e mostrando elementos;
+* Inserir novos dados no localStorage.
 
 ## Utilização de expressão regular para validar campos: 
 ![Alt text](img-Readme/1.png)
